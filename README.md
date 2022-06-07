@@ -1,5 +1,5 @@
 # Butterfly-Recognition-System
-以残差网络（ResNet）为核心的蝴蝶识别的系统
+以残差网络（ResNet）为核心的蝴蝶识别系统
 
 项目目录结构（库中文件全部放在根目录下）
 ├─static
